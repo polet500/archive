@@ -2,8 +2,8 @@
 title:  "Del cardinal Durante, che ha posto in priggione un ambasciador di uno di maggiori principi dell’Imperio"
 metadata:
 	description: 
-	og:image: schede/vergerio-durante/banner-fb.jpg
-	image: schede/vergerio-durante/banner-fb.jpg
+	og:image: {{ base_url }}/schede/vergerio-durante/banner-fb.jpg
+	image: {{ base_url }}/schede/vergerio-durante/banner-fb.jpg
 	keywords: polemiche letterarie, pietro bembo, letteratura cinquecento
 date: 25-06-2018
 taxonomy:

@@ -2,8 +2,8 @@
 title:  Polemica Pomponazzi-Nifo-Fiandino
 metadata:
 	description: Pomponazzi affermò la mortalità dell''anima generando una querelle incentrata tutta sull''ipse dixit aristotelico.
-	og:image: schede/pomponazzi-nifo-fiandino/banner-fb.jpg
-	image: schede/pomponazzi-nifo-fiandino/banner-fb.jpg
+	og:image: {{ base_url }}/schede/pomponazzi-nifo-fiandino/banner-fb.jpg
+	image: {{ base_url }}/schede/pomponazzi-nifo-fiandino/banner-fb.jpg
 	keywords: polemiche letterarie, letteratura cinquecento
 date: 02-02-2017
 taxonomy:

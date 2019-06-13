@@ -2,8 +2,8 @@
 title:  Polemica tra Annibale Caro e Ludovico Castelvetro
 metadata:
 	description: 
-	og:image: schede/caro-castelvetro/banner-fb.jpg
-	image: schede/caro-castelvetro/banner-fb.jpg
+	og:image: {{ base_url }}/schede/caro-castelvetro/banner-fb.jpg
+	image: {{ base_url }}/schede/caro-castelvetro/banner-fb.jpg
 date: 01-01-2018
 taxonomy:
 	category: blog

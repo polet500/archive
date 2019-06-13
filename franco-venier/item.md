@@ -2,8 +2,8 @@
 title: Una polemica non solo letteraria: Maffio Venier e Veronica Franco
 metadata:
 	description: "Oggetto dello scontro, un autentico agone combattuto con la penna, e la persona di Veronica Franco (1546-1591), cortigiana assurta alla gloria nella Venezia del tempo nonche scrittrice: di lei Maffio Venier (1550-1586-) denigra l'attivita, l'aspetto, l'ingiustificata vanagloria intellettuale."
-	og:image: schede/franco-venier/banner-fb.jpg
-	image: schede/franco-venier/banner-fb.jpg
+	og:image: {{ base_url }}/schede/franco-venier/banner-fb.jpg
+	image: {{ base_url }}/schede/franco-venier/banner-fb.jpg
 date: 01-01-2018
 taxonomy:
 	category: blog

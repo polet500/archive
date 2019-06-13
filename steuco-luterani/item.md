@@ -2,8 +2,8 @@
 title:  La polemica cinquecentesca sulla Donazione di Costantino: Agostino Steuco e i luterani
 metadata:
 	description: Cento anni dopo la pubblicazione del De falso credita et ementita Constantini Donatione, Agostino Steuco cercò di confutare l'opera del Valla, riscuotendo successi, ma anche molteplici critiche da parte dei Luterani.
-	og:image: schede/steuco-luterani/banner-fb.jpg
-	image: schede/steuco-luterani/banner-fb.jpg
+	og:image: {{ base_url }}/schede/steuco-luterani/banner-fb.jpg
+	image: {{ base_url }}/schede/steuco-luterani/banner-fb.jpg
 date: 01-01-2018
 taxonomy:
 	category: blog

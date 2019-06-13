@@ -2,8 +2,8 @@
 title:  Delle statue et imagini
 metadata:
 	description: "La polemica verte principalmente attorno ai concetti teologici di venerazione"
-	og:image: schede/vergerio-marcello/banner-fb.jpg
-	image: schede/vergerio-marcello/banner-fb.jpg
+	og:image: {{ base_url }}/schede/vergerio-marcello/banner-fb.jpg
+	image: {{ base_url }}/schede/vergerio-marcello/banner-fb.jpg
 	keywords: polemiche letterarie, pietro bembo, letteratura cinquecento
 date: 25-06-2018
 taxonomy:

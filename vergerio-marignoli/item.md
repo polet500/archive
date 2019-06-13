@@ -2,8 +2,8 @@
 title: Discorso sopra i fioretti di san Francesco, ne’ quali della sua vita et delle sue stigmate si ragiona
 metadata:
 	description: 
-	og:image: schede/vergerio-marignoli/banner-fb.jpg
-	image: schede/vergerio-marignoli/banner-fb.jpg
+	og:image: {{ base_url }}/schede/vergerio-marignoli/banner-fb.jpg
+	image: {{ base_url }}/schede/vergerio-marignoli/banner-fb.jpg
 	keywords: polemiche letterarie, pietro bembo, letteratura cinquecento
 date: 25-06-2018
 taxonomy:

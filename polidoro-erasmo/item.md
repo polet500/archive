@@ -2,8 +2,8 @@
 title:  Polemica tra Polidoro Virgilii ed Erasmo da Rotterdam 
 metadata:
 	description: Polemica tra Erasmo da Rotterdam e Polidoro Virgilii sulla priorità degli Adagia,raccolta di proverbi latini.
-	og:image: schede/polidoro-erasmo/banner-fb.jpg
-	image: schede/polidoro-erasmo/banner-fb.jpg
+	og:image: {{ base_url }}/schede/polidoro-erasmo/banner-fb.jpg
+	image: {{ base_url }}/schede/polidoro-erasmo/banner-fb.jpg
 date: 01-01-2018
 taxonomy:
 	category: blog
