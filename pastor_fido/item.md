@@ -2,8 +2,8 @@
 title:  Polemica sul Pastor fido tra Guarini, Denores e altri
 metadata:
 	description: Polemica di fine '500 sul Pastor Fido tra Guarini e Denores, poi proseguita con altri letterati (Summo, Ingegneri, Malacreta, Beni, Pescetti e Savio).
-	og:image: http://nuovorinascimento.org/polet500/schede/pastor_fido/banner-fb.jpg
-	image: http://nuovorinascimento.org/polet500/schede/pastor_fido/banner-fb.jpg
+	og:image: schede/pastor_fido/banner-fb.jpg
+	image: schede/pastor_fido/banner-fb.jpg
 	keywords: polemiche letterarie, letteratura cinquecento
 date: 13-05-2017
 taxonomy:

@@ -2,8 +2,8 @@
 title: Polemica tra Sperone Speroni e Giraldi Cinzio
 metadata:
 	description: Polemica sulla tragedia Canace di Speroni tra l'autore e Giraldi Cinzio.
-	og:image: http://nuovorinascimento.org/polet500/schede/speroni-cinzio/banner-fb.jpg
-	image: http://nuovorinascimento.org/polet500/schede/speroni-cinzio/banner-fb.jpg
+	og:image: schede/speroni-cinzio/banner-fb.jpg
+	image: schede/speroni-cinzio/banner-fb.jpg
 	keywords: polemiche letterarie, sperone speroni, letteratura cinquecento
 date: 21-06-2017
 taxonomy:
