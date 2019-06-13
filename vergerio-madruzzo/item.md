@@ -2,8 +2,8 @@
 title:  Risposta del Vergerio ad una ambasciata del Cardinal di Trento
 metadata:
 	description: "La polemica del Vergerio si struttura, fin dalle prime righe (p. 3) come una risposta all’ambasciata del cardinale Madruzzo"
-	og:image: {{ base_url }}/schede/vergerio-madruzzo/banner-fb.jpg
-	image: {{ base_url }}/schede/vergerio-madruzzo/banner-fb.jpg
+	og:image: http://158.194.42.140/schede/vergerio-madruzzo/banner-fb.jpg
+	image: http://158.194.42.140/schede/vergerio-madruzzo/banner-fb.jpg
 	keywords: polemiche letterarie, pietro bembo, letteratura cinquecento
 date: 25-06-2018
 taxonomy:

@@ -2,8 +2,8 @@
 title:  "Polemica Vergerio - Alberti"
 metadata:
 	description: La polemica, postuma, contro il best seller del genere storico-letterario Descrittione di tutta l’Italia di fra Leandro Alberti
-	og:image: {{ base_url }}/schede/vergerio-alberti/banner-fb.jpg
-	image: {{ base_url }}/schede/vergerio-alberti/banner-fb.jpg
+	og:image: http://158.194.42.140/schede/vergerio-alberti/banner-fb.jpg
+	image: http://158.194.42.140/schede/vergerio-alberti/banner-fb.jpg
 	keywords: polemiche letterarie, pietro bembo, letteratura cinquecento
 date: 25-06-2018
 taxonomy:

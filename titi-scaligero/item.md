@@ -2,8 +2,8 @@
 title:  Polemica fra Titi e Scaligero
 metadata:
 	description: Polemica sui luoghi critici della tradizione testuale del mondo classico con implicazioni politiche
-	og:image: {{ base_url }}/schede/titi-scaligero/banner-fb.jpg
-	image: {{ base_url }}/schede/titi-scaligero/banner-fb.jpg
+	og:image: http://158.194.42.140/schede/titi-scaligero/banner-fb.jpg
+	image: http://158.194.42.140/schede/titi-scaligero/banner-fb.jpg
 	keywords: polemiche letterarie, pietro bembo, letteratura cinquecento
 date: 29-06-2018
 taxonomy:

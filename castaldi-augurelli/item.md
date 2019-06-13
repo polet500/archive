@@ -2,8 +2,8 @@
 title: Polemica Castaldi-Augurelli sul petrarchismo
 metadata:
 	description: Cornelio Castaldi non riuscì mai a sostenere una polemica di ampia portata contro i petrarchisti, ma le sue opinioni a riguardo ebbero qualche eco.
-	og:image: {{ base_url }}/schede/castaldi-augurelli/banner-fb.jpg
-	image: {{ base_url }}/schede/castaldi-augurelli/banner-fb.jpg
+	og:image: http://158.194.42.140/schede/castaldi-augurelli/banner-fb.jpg
+	image: http://158.194.42.140/schede/castaldi-augurelli/banner-fb.jpg
 date: 01-01-2018
 taxonomy:
 	category: blog
