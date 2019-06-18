@@ -2,8 +2,8 @@
 title:  Pirro Ligorio e le polemiche antiquarie sulle antichità di Roma
 metadata:
 	description:  Polemiche e discussioni tra antiquari e letterati sulle antichità di Roma e in particolare sulla corretta posizione del Foro Romano secondo Pirro Ligorio
-	og:image: http://158.194.42.140/schede/volgare_latino/banner-fb.jpg
-	image: http://158.194.42.140/schede/volgare_latino/banner-fb.jpg
+	og:image: http://polet500.it/schede/volgare_latino/banner-fb.jpg
+	image: http://polet500.it/schede/volgare_latino/banner-fb.jpg
 	keywords: polemiche letterarie, pietro bembo, letteratura cinquecento
 date: 15-07-2018
 taxonomy:

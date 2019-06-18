@@ -2,8 +2,8 @@
 title: Polemica fra Carlo Sigonio e Francesco Robortello
 metadata: 
 	description: "L’acre polemica che vide come protagonisti Carlo Sigonio e Francesco Robortello ci è stata tramandata mediante tre opere pubblicate fra l’aprile e il settembre del 1562 all’interno dell’ambiente universitario padovano: le Disputationes Patavinae (I e II) del primo e le Ephemerides Patavinae del celebre commentatore della Poetica aristotelica. "
-	og:image: http://158.194.42.140/schede/sigonio-robortello/banner-fb.jpg
-	image: http://158.194.42.140/schede/sigonio-robortello/banner-fb.jpg
+	og:image: http://polet500.it/schede/sigonio-robortello/banner-fb.jpg
+	image: http://polet500.it/schede/sigonio-robortello/banner-fb.jpg
 date: 03-05-2019
 taxonomy:
 	tag: [Storiografia romana, Livio, prestigio universitario]

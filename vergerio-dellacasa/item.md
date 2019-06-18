@@ -2,8 +2,8 @@
 title: Polemica tra Pier Paolo Vergerio il Giovane e Giovanni Della Casa
 metadata:
 	description: "Catalogo de’ libri, li quali nuovamente nel mese di Maggio nell'anno presente MDXLVIIII sono stati condannati, et scomunicati per heretici, da M. Giovan Della Casa legato di Vinetia, et d'alcuni frati."
-	og:image: http://158.194.42.140/schede/vergerio-dellacasa/banner-fb.jpg
-	image: http://158.194.42.140/schede/vergerio-dellacasa/banner-fb.jpg
+	og:image: http://polet500.it/schede/vergerio-dellacasa/banner-fb.jpg
+	image: http://polet500.it/schede/vergerio-dellacasa/banner-fb.jpg
 date: 03-05-2019
 taxonomy:
 	tag: [Controversia, apologia]

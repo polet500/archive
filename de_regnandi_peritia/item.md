@@ -2,8 +2,8 @@
 title:  Plagio o rimaneggiamento nel De regnandi peritia di Agostino Nifo
 metadata:
 	description: Questione del plagio o del rimaneggiamento del Principedi Machiavelli operata nel De regnandi peritia di Agostino Nifo
-	og:image: http://158.194.42.140/schede/de_regnandi_peritia/banner-fb.jpg
-	image: http://158.194.42.140/schede/de_regnandi_peritia/banner-fb.jpg
+	og:image: http://polet500.it/schede/de_regnandi_peritia/banner-fb.jpg
+	image: http://polet500.it/schede/de_regnandi_peritia/banner-fb.jpg
 	keywords: polemiche letterarie, pietro bembo, letteratura cinquecento
 date: 01-07-2018
 taxonomy:

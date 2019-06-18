@@ -2,8 +2,8 @@
 title:  Polemiche sul volgare tra Muzio, Cesano e Trivulzio su Machiavelli e Boccaccio e su toscanizzazione e fiorentinizzazione
 metadata:
 	description: La polemica sul volgare trova rinnovato vigore nel pensiero di Girolamo Muzio, in particolare nelle lettere indirizzate da un lato a Gabriello Cesano e Bartolomeo Cavalcanti sulla superiorità di Giovanni Boccaccio rispetto a Niccolò Machiavelli e dall’altro in quella indirizzata a Renato Trivulzio in cui, invece, attaccando in particolare Claudio Tolomei, discute delle differenze tra toscanizzazione e fiorentinizzazione
-	og:image: http://158.194.42.140/schede/muzio-cesano-trivulzio/banner-fb.jpg
-	image: http://158.194.42.140/schede/muzio-cesano-trivulzio/banner-fb.jpg
+	og:image: http://polet500.it/schede/muzio-cesano-trivulzio/banner-fb.jpg
+	image: http://polet500.it/schede/muzio-cesano-trivulzio/banner-fb.jpg
 	keywords: polemiche letterarie, pietro bembo, letteratura cinquecento
 date: 15-07-2018
 taxonomy:

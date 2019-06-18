@@ -2,8 +2,8 @@
 title: La polemica di Nicolò Leoniceno sulla Naturalis Historia di Plinio il Vecchio
 metadata:
 	description: Leoniceno mise in rilievo alcuni errori commessi da Plinio, suscitando l'opposizione di coloro che consideravano l'auctoritas pliniana inattaccabile.
-	og:image: http://158.194.42.140/schede/leoniceno-naturalis_historia/banner-fb.jpg
-	image: http://158.194.42.140/schede/leoniceno-naturalis_historia/banner-fb.jpg
+	og:image: http://polet500.it/schede/leoniceno-naturalis_historia/banner-fb.jpg
+	image: http://polet500.it/schede/leoniceno-naturalis_historia/banner-fb.jpg
 	keywords: polemiche letterarie, plinio, leoniceno
 date: 17-02-2017
 taxonomy:

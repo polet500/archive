@@ -2,8 +2,8 @@
 title: Polemiche Tassiane tra Patrizi, Borghese, Ottonelli e altri
 metadata:
 	description: Polemiche intorno alla qualità linguistica della Gerusalemme.Gli esponenti principali sono Francesco Patrizi, Diomede Borghese, Giulio Ottonelli e Tasso stesso.
-	og:image: http://158.194.42.140/schede/tassiane/banner-fb.jpg
-	image: http://158.194.42.140/schede/tassiane/banner-fb.jpg
+	og:image: http://polet500.it/schede/tassiane/banner-fb.jpg
+	image: http://polet500.it/schede/tassiane/banner-fb.jpg
 	keywords: polemiche letterarie, torquato tasso, ariosto, letteratura italiana del cinquecento
 date: 24-01-2017
 taxonomy:

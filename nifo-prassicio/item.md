@@ -2,8 +2,8 @@
 title:  Polemica tra Agostino Nifo e Luca Prassicio sulle armi e le lettere
 metadata:
 	description: Polemica tra Agostino Nifo e Luca Prassicio sulla superiorità da attribuire alle armi o alle lettere.
-	og:image: http://158.194.42.140/schede/nifo-prassicio/banner-fb.jpg
-	image: http://158.194.42.140/schede/nifo-prassicio/banner-fb.jpg
+	og:image: http://polet500.it/schede/nifo-prassicio/banner-fb.jpg
+	image: http://polet500.it/schede/nifo-prassicio/banner-fb.jpg
 date: 01-01-2018
 taxonomy:
 	category: blog

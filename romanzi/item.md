@@ -2,8 +2,8 @@
 title:  Polemica sui "romanzi" tra Giraldi Cinzio e Pigna
 metadata:
 	description: "Polemica sulla partenità di alcune teorie relative ai 'romanzi', ossia i poemi cavallereschi, con particolare attenzione all'Orlando furioso."
-	og:image: http://158.194.42.140/schede/romanzi/banner-fb.jpg
-	image: http://158.194.42.140/schede/romanzi/banner-fb.jpg
+	og:image: http://polet500.it/schede/romanzi/banner-fb.jpg
+	image: http://polet500.it/schede/romanzi/banner-fb.jpg
 	keywords: polemiche letterarie, pietro bembo, letteratura cinquecento
 date: 01-01-2018
 taxonomy:

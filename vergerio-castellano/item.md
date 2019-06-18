@@ -2,8 +2,8 @@
 title:  "A quegli venerabili padri Domenicani, che difendono il Rosario per cosa buona"
 metadata:
 	description: Polemica intorno al libro di devozione popolare, Rosario della Beata Vergine Maria, pubblicato nel 1522 dal domenicano Alberto da Castello (Venezia), e diffuso dai membri dell'ordine come pia lettura al termine della preghiera vespertina.
-	og:image: http://158.194.42.140/schede/vergerio-castellano/banner-fb.jpg
-	image: http://158.194.42.140/schede/vergerio-castellano/banner-fb.jpg
+	og:image: http://polet500.it/schede/vergerio-castellano/banner-fb.jpg
+	image: http://polet500.it/schede/vergerio-castellano/banner-fb.jpg
 	keywords: polemiche letterarie, pietro bembo, letteratura cinquecento
 date: 25-06-2018
 taxonomy:
